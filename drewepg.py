@@ -44,7 +44,7 @@ epg_sources = [
     "https://epgshare01.online/epgshare01/epg_ripper_JM1.xml.gz"
 ]
 
-playlist_url = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/MergedPlaylist.m3u8"
+playlist_url = "http://drewlive24.duckdns.org:8081/DrewLive/MergedPlaylist.m3u8"
 output_filename = "DrewLive.xml.gz"
 
 
